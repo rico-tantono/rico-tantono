@@ -5,7 +5,7 @@
 <h1 align="center">Hello!👋 </h1>
 
 <p align="center">
-  Looking sharp there. Come get to know more about me!!  (￣ー￣)b
+  Welcome to my GitHub page!!  (￣ー￣)b
 </p>
 
 ---
