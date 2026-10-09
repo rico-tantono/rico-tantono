@@ -53,6 +53,21 @@ A data analysis project focused on exploring datasets, identifying patterns, and
 
 **Tech Stack:** Python, Google Colab, Pandas, Matplotlib
 
+### 3. Semesta: Student Productivity Planner
+
+A frontend-only planner for university students to organize classes, assignments, and deadlines in one place. Data is saved in the browser with localStorage, so it works with no backend or account.
+
+Dashboard with live stats for total, pending, completed, and overdue assignments, plus today’s schedule and upcoming deadlines.
+Assignment management with create, edit, complete, and delete, plus search, filters, sorting, and overdue and due-soon indicators.
+Weekly timetable with day and week views, time validation, and overlap warnings.
+Calendar view of deadlines and classes, with the option to add an assignment from a selected date.
+Subject management with color coding, and a warning before deleting a subject that has related data.
+Progress charts for completion rate, daily trends, and per-subject progress.
+Settings for week start day, JSON export and import with validation, and clearing all data.
+Responsive layout for desktop, tablet, and mobile, with keyboard-friendly forms.
+
+**Tech Stack:** HTML5, CSS3, Vanilla JavaScript, Chart.js, localStorage
+
 
 ## Tech Stack
 
@@ -69,6 +84,20 @@ A data analysis project focused on exploring datasets, identifying patterns, and
 
 ---
 
+<h2> Let's Connect</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rico-tantono-58132b34b/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-4169B1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+<p align="center">
+  Feel free to explore my repositories and projects!
+</p>
+
+---
+
 <p align="center">
   <i>今度は今度、今は今。</i>
   <br>
@@ -78,3 +107,4 @@ A data analysis project focused on exploring datasets, identifying patterns, and
   <br>
   <sub>— Perfect Days (2023)</sub>
 </p>
+
