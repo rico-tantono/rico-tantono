@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="100%" />
 </p>
 
-<h1 align="center">Hi there, I'm a Information Systems Student 👋</h1>
+<h1 align="center">Hi there, I'm Rico Tantono!👋 </h1>
 
 <p align="center">
   Aspiring Data Analyst | Business Intelligence | Database Management
@@ -39,7 +39,7 @@ A web-based decision support system designed to help users evaluate and compare 
 
 **Tech Stack:** HTML, CSS, JavaScript, AHP, LocalStorage
 
-### 2. Data Analysis with Jupyter Notebook
+### 2. Data Analysis with Google Colab
 
 A data analysis project focused on exploring datasets, identifying patterns, and extracting insights through a structured analytical workflow.
 
@@ -48,30 +48,13 @@ A data analysis project focused on exploring datasets, identifying patterns, and
 * Exploratory data analysis (EDA).
 * Data visualization and insight generation.
 
-**Tech Stack:** Python, Jupyter Notebook, Pandas, Matplotlib
+**Tech Stack:** Python, Google Colab, Pandas, Matplotlib
 
-### 3. Retail Data Warehouse
-
-An academic project involving the design and development of a data warehouse for a retail business scenario.
-
-* Designed fact and dimension tables.
-* Organized sales, customer, product, and inventory data.
-* Applied data warehouse concepts to support analytical reporting.
-
-**Focus Areas:** Data Warehousing, Dimensional Modeling, Database Design, Business Intelligence
-
-## Areas of Interest
-
-* Data Analytics & Exploratory Data Analysis
-* Business Intelligence & Reporting
-* Database Management & Data Warehousing
-* Decision Support Systems
-* Business and Financial Analysis
 
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,jupyter,mysql,html,css,js,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,googlecolab,mysql,html,css,js,git,github,vscode" />
 </p>
 
 ## Currently Learning
@@ -84,5 +67,11 @@ An academic project involving the design and development of a data warehouse for
 ---
 
 <p align="center">
-  <i>Learning continuously, building projects, and turning data into meaningful insights.</i>
+  <i>今度は今度、今は今。</i>
+  <br>
+  <sub>Kondo wa kondo, ima wa ima.</sub>
+  <br><br>
+  "Next time is next time. Now is now."
+  <br>
+  <sub>— Perfect Days</sub>
 </p>
