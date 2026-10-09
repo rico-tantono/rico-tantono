@@ -88,12 +88,12 @@ Responsive layout for desktop, tablet, and mobile, with keyboard-friendly forms.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rico-tantono-58132b34b/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-4169B1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="280px" />
+    <img src="https://img.shields.io/badge/LINKEDIN-4169B1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="130px" />
   </a>
 </p>
 
 <p align="center">
-  Feel free to explore my repositories and projects!
+  Thanks for stopping by! Feel free to explore my projects.
 </p>
 
 ---
