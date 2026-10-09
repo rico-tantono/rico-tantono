@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/UcMN5lbUI4b5sdTSLu/giphy.gif" width="350" />
 </p>
 
-<h1 align="center">Hello there!👋 </h1>
+<h1 align="center">Hello!👋 </h1>
 
 <p align="center">
   Looking sharp there!! Come get to know more about me!  (￣ー￣)b
