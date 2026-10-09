@@ -1,16 +1,88 @@
-## Hi there 👋
+ <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="100%" />
+</p>
 
-<!--
-**rico-tantono/rico-tantono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there, I'm a Information Systems Student 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  Aspiring Data Analyst | Business Intelligence | Database Management
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+I'm an Information Systems student at Universitas Tarumanagara, Indonesia, with an interest in data analytics, decision support systems, and database management.
+
+I enjoy exploring how technology and data can be used to solve problems, support business decisions, and improve organizational processes.
+
+Currently, I'm building my technical skills through academic projects and personal development, with a focus on data analysis, analytical thinking, and information systems.
+
+## Academic Background
+
+* **University:** Universitas Tarumanagara
+* **Faculty:** Faculty of Information Technology
+* **Major:** Information Systems
+* **Degree:** Bachelor's Degree (in progress)
+* **Expected Graduation:** 2028
+
+## Featured Projects
+
+### 1. AHP Investment Decision Support System
+
+A web-based decision support system designed to help users evaluate and compare investment alternatives using the Analytic Hierarchy Process (AHP).
+
+* Implements pairwise comparison and priority weighting.
+* Supports investment evaluation using benefit and cost criteria.
+* Uses HTML, CSS, and JavaScript.
+* Stores data locally using LocalStorage.
+
+**Tech Stack:** HTML, CSS, JavaScript, AHP, LocalStorage
+
+### 2. Data Analysis with Jupyter Notebook
+
+A data analysis project focused on exploring datasets, identifying patterns, and extracting insights through a structured analytical workflow.
+
+* Data exploration and inspection.
+* Data cleaning and preprocessing.
+* Exploratory data analysis (EDA).
+* Data visualization and insight generation.
+
+**Tech Stack:** Python, Jupyter Notebook, Pandas, Matplotlib
+
+### 3. Retail Data Warehouse
+
+An academic project involving the design and development of a data warehouse for a retail business scenario.
+
+* Designed fact and dimension tables.
+* Organized sales, customer, product, and inventory data.
+* Applied data warehouse concepts to support analytical reporting.
+
+**Focus Areas:** Data Warehousing, Dimensional Modeling, Database Design, Business Intelligence
+
+## Areas of Interest
+
+* Data Analytics & Exploratory Data Analysis
+* Business Intelligence & Reporting
+* Database Management & Data Warehousing
+* Decision Support Systems
+* Business and Financial Analysis
+
+## Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,jupyter,mysql,html,css,js,git,github,vscode" />
+</p>
+
+## Currently Learning
+
+* Strengthening Python and SQL skills.
+* Developing data analysis and visualization techniques.
+* Building web-based decision support systems.
+* Learning how data supports business and investment decisions.
+
+---
+
+<p align="center">
+  <i>Learning continuously, building projects, and turning data into meaningful insights.</i>
+</p>
