@@ -1,5 +1,5 @@
- <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="100%" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="400" />
 </p>
 
 <h1 align="center">Hi there, I'm Rico Tantono!👋 </h1>
@@ -73,5 +73,5 @@ A data analysis project focused on exploring datasets, identifying patterns, and
   <br><br>
   "Next time is next time. Now is now."
   <br>
-  <sub>— Perfect Days</sub>
+  <sub>— Perfect Days (2023)</sub>
 </p>
