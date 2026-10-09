@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="510" />
+  <img src="[https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif](https://giphy.com/stickers/love-heart-kawaii-s5pqEUOsNQISDw6Eu7)" width="510" />
 </p>
 
-<h1 align="center">Hi there, I'm Rico Tantono!👋 </h1>
+<h1 align="center">Hello there!👋 </h1>
 
 <p align="center">
-  Aspiring Data Analyst | Business Intelligence | Database Management
+  Looking sharp there!! Come get to know more about me!  (￣ー￣)b
 </p>
 
 ---
@@ -13,10 +13,13 @@
 ## About Me
 
 I'm an Information Systems student at Universitas Tarumanagara, Indonesia, with an interest in data analytics, decision support systems, and database management.
-
 I enjoy exploring how technology and data can be used to solve problems, support business decisions, and improve organizational processes.
 
 Currently, I'm building my technical skills through academic projects and personal development, with a focus on data analysis, analytical thinking, and information systems.
+
+### ✦ Fun Facts About Me
+
+In my free time, you'll probably find me solving Sudoku puzzles or learning Japanese. 🇯🇵
 
 ## Academic Background
 
