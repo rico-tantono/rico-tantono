@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://giphy.com/stickers/good-capoo-bugcat-qGmLWDPFAzOAz8DU2L" width="510" />
+  <img src="https://media.giphy.com/media/qGmLWDPFAzOAz8DU2L/giphy.gif" width="200" />
 </p>
 
 <h1 align="center">Hello there!👋 </h1>
