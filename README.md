@@ -12,7 +12,7 @@
 
 ## About Me
 
-I'm an Information Systems student at Universitas Tarumanagara, Indonesia, with an interest in data analytics, decision support systems, and database management.
+I'm an Information Systems student at Universitas Tarumanagara, Indonesia, with an interest in website development, data analytics, decision support systems, and database management.
 I enjoy exploring how technology and data can be used to solve problems, support business decisions, and improve organizational processes.
 
 Currently, I'm building my technical skills through academic projects and personal development, with a focus on data analysis, analytical thinking, and information systems.
