@@ -27,22 +27,39 @@ In my free time, you'll probably find me solving Sudoku puzzles or learning Japa
 * **Faculty:** Faculty of Information Technology
 * **Major:** Information Systems
 * **Degree:** Bachelor's Degree (in progress)
+* **Current GPA**: 3.88 / 4.00
 * **Expected Graduation:** 2028
 
 ## Featured Projects
 
-### 1. AHP Investment Decision Support System
+### 1. Sudoku Solver
 
-A web-based decision support system designed to help users evaluate and compare investment alternatives using the Analytic Hierarchy Process (AHP).
+An interactive Sudoku-solving web application built with TypeScript, featuring an intuitive puzzle interface and an educational section for learning Sudoku rules and solving techniques.
 
-* Implements pairwise comparison and priority weighting.
-* Supports investment evaluation using benefit and cost criteria.
-* Uses HTML, CSS, and JavaScript.
-* Stores data locally using LocalStorage.
+* Interactive 9×9 Sudoku grid with real-time conflict detection.
+* Automated puzzle solving using a backtracking algorithm with bitmask optimization and a fewest-candidates-first strategy.
+* Step-by-step solution visualization with navigation controls.
+* Learn section featuring Sudoku tutorials and visual examples.
+* Keyboard navigation, progress tracking, and light/dark mode.
+* Uses browser localStorage to persist supported user data and preferences.
 
-**Tech Stack:** HTML, CSS, JavaScript, AHP, LocalStorage
+**Tech Stack**: HTML, CSS, TypeScript, localStorage, Algorithm Design
 
-### 2. Data Analysis with Google Colab
+### 2. Semesta: Student Productivity Planner
+
+A frontend-only productivity planner designed to help university students organize their schedules, assignments, and deadlines in one place. All data is stored locally in the browser using localStorage, without requiring a backend or user account.
+
+* Dashboard with assignment statistics, today's schedule, and upcoming deadlines.
+* Assignment management with search, filtering, sorting, and status tracking.
+* Weekly timetable and calendar views for managing classes and deadlines.
+* Subject management with color coding and related-data safeguards.
+* Progress charts for completion rates, daily trends, and subject performance.
+* Data export and import through JSON, with validation.
+* Responsive interface for desktop, tablet, and mobile devices.
+
+**Tech Stack**: HTML5, CSS3, Vanilla JavaScript, Chart.js, localStorage
+
+### 3. Data Analysis with Google Colab
 
 A data analysis project focused on exploring datasets, identifying patterns, and extracting insights through a structured analytical workflow.
 
@@ -53,21 +70,18 @@ A data analysis project focused on exploring datasets, identifying patterns, and
 
 **Tech Stack:** Python, Google Colab, Pandas, Matplotlib
 
-### 3. Semesta: Student Productivity Planner
-
-A frontend-only planner for university students to organize classes, assignments, and deadlines in one place. Data is saved in the browser with localStorage, so it works with no backend or account.
-
-Dashboard with live stats for total, pending, completed, and overdue assignments, plus today’s schedule and upcoming deadlines.
-Assignment management with create, edit, complete, and delete, plus search, filters, sorting, and overdue and due-soon indicators.
-Weekly timetable with day and week views, time validation, and overlap warnings.
-Calendar view of deadlines and classes, with the option to add an assignment from a selected date.
-Subject management with color coding, and a warning before deleting a subject that has related data.
-Progress charts for completion rate, daily trends, and per-subject progress.
-Settings for week start day, JSON export and import with validation, and clearing all data.
-Responsive layout for desktop, tablet, and mobile, with keyboard-friendly forms.
-
 **Tech Stack:** HTML5, CSS3, Vanilla JavaScript, Chart.js, localStorage
 
+### 4. AHP Investment Decision Support System
+
+A web-based decision support system designed to help users evaluate and compare investment alternatives using the Analytic Hierarchy Process (AHP).
+
+* Implements pairwise comparison and priority weighting.
+* Supports investment evaluation using benefit and cost criteria.
+* Uses HTML, CSS, and JavaScript.
+* Stores data locally using LocalStorage.
+
+**Tech Stack:** HTML, CSS, JavaScript, AHP, LocalStorage
 
 ## Tech Stack
 
