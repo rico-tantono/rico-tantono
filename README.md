@@ -5,7 +5,7 @@
 <h1 align="center">Hello!👋 </h1>
 
 <p align="center">
-  Welcome to my GitHub page!!  (￣ー￣)b
+  Welcome to my GitHub page!!
 </p>
 
 ---
@@ -15,7 +15,7 @@
 I'm an Information Systems student at Universitas Tarumanagara, Indonesia, with an interest in website development, data analytics, decision support systems, and database management.
 I enjoy exploring how technology and data can be used to solve problems, support business decisions, and improve organizational processes.
 
-Currently, I'm building my technical skills through academic projects and personal development, with a focus on data analysis, analytical thinking, and information systems.
+Currently, I'm building my technical skills through academic projects and personal development, with a focus on data analysis, analytical thinking, and information systems.  (￣ー￣)b
 
 ### ✦ Fun Facts About Me
 
@@ -72,7 +72,7 @@ Responsive layout for desktop, tablet, and mobile, with keyboard-friendly forms.
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,googlecolab,mysql,html,css,js,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,googlecolab,mysql,html,css,js,ts,react,vite,git,github,vscode" />
 </p>
 
 ## Currently Learning
@@ -84,7 +84,7 @@ Responsive layout for desktop, tablet, and mobile, with keyboard-friendly forms.
 
 ---
 
-<h2> Let's Connect</h2>
+<h2> Let's Connect </h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rico-tantono-58132b34b/" target="_blank">
