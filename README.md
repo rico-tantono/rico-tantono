@@ -70,8 +70,6 @@ A data analysis project focused on exploring datasets, identifying patterns, and
 
 **Tech Stack:** Python, Google Colab, Pandas, Matplotlib
 
-**Tech Stack:** HTML5, CSS3, Vanilla JavaScript, Chart.js, localStorage
-
 ### 4. AHP Investment Decision Support System
 
 A web-based decision support system designed to help users evaluate and compare investment alternatives using the Analytic Hierarchy Process (AHP).
